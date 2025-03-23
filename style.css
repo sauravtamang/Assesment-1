@@ -159,3 +159,10 @@ footer {
 .contactForm input[type="submit"]:hover {
     background-color: #0056b3; 
 }
+
+.reportMain img{
+    width: 80%;
+    display: block;
+    align-self: center;
+    margin: auto;
+}
